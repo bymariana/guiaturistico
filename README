@@ -1,0 +1,4 @@
+README
+
+guiaturistico.main --> Npm intall  --->    ng serve
+guiaturistico.main/webservice --> node ./app.js
